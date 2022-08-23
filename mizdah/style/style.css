@@ -1,0 +1,752 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.mizdah-landing p {
+    font-size: 20px;
+    color: #555555;
+    line-height: 34px;
+}
+
+/* tittle section */
+#title {
+    background-image: url(../images/slider1.png);
+    background-size: cover;
+}
+
+
+.navbar-expand-md .navbar-collapse {
+
+    justify-content: flex-end;
+}
+
+.d-flex {
+
+    justify-content: flex-end;
+}
+
+.nav--buttons .btn-outline-primary {
+    color: black;
+    border-color: #0d6efd;
+    background-color: white;
+}
+
+.nav--buttons .btn-outline-primary:hover {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.nav--buttons .btn-primary {
+    color: #fff;
+    background-color: #0a58ca;
+    ;
+    border-color: white;
+}
+
+#title b, strong {
+    font-weight: 500;
+}
+
+.nav--buttons .btn-primary:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #0a58ca;
+}
+
+.nav--buttons .button-main {
+    padding: 0px 10px;
+}
+
+
+.logo {
+    width: 165px;
+    height: 38px;
+}
+
+.button {
+    border-radius: 100px;
+    padding: 8px 0 6px;
+    width: 124px;
+    box-shadow: none !important;
+}
+
+.link-secondary {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: 500;
+}
+
+.link {
+    margin-right: 20px;
+}
+
+
+
+
+.landing-container .hero__caption .slide-center-text {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+.btn.btnDownloadWindow,
+.btn.btnDownloadMac,
+.btn.btnDownloadPlay1 {
+
+    padding: 4px 24px 2px 12px;
+    background-repeat: no-repeat;
+
+    background-size: contain;
+    margin-right: 5px;
+    width: auto;
+
+    min-width: 125px;
+
+}
+
+.btn.btnDownloadWindow:hover,
+.btn.btnDownloadMac:hover,
+.btn.btnDownloadPlay1:hover {
+    background-color:  #1967d8;
+    color: white;
+    transition: transform .3s cubic-bezier(0.39, 0.58, 0.57, 1);
+    transform: scale(1.1);
+
+}
+
+
+.btn.btnDownloadMac {
+    border: 3px solid #000;
+    border-radius: 50px;
+
+}
+
+.btnDownloadPlay1 {
+    border: 3px solid #000;
+    border-radius: 50px;
+
+}
+
+.btnDownloadWindow {
+    border: 3px solid #000;
+    border-radius: 50px;
+
+}
+
+
+.btnDownloadMacIcon,
+.btnDownloadWinIcon,
+.btnDownloadPlay {
+    height: 30px;
+    width: 30px;
+    margin: 2px 10px 4px 0px;
+}
+
+.a-btn {
+
+    font-size: 14px;
+    font-weight: 500;
+
+
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.blue-text {
+    color: #1967d8;
+}
+
+.yellow-text {
+    color: #ffc107;
+}
+
+.slide-section-img {
+    width: 100%;
+}
+
+#slide-row {
+    margin-top: 15px;
+}
+
+.title-text h2 {
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 110px;
+}
+
+#slide-image {
+    padding-top: 70px;
+}
+
+
+
+
+/* Section2 styling */
+#section2 {
+    background-color: #F7F7F7;
+
+}
+
+#section2 .container {
+    padding-top: 5rem;
+}
+
+#section2 .section2-inner-heading {
+    font-weight: 700;
+    font-size: 52px;
+    padding-top: 39px;
+    /* margin-left: 41px; */
+    margin-bottom: 30px;
+}
+
+
+
+/* section2 styling */
+
+/* Section 3 */
+
+
+.section3 {
+    background-image: url(../images/3rd-part.png);
+    background-size: cover;
+}
+
+.section3 .container {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.section3 .container #box-row p {
+    font-size: 16px;
+}
+
+.section3 .container .theme h2 {
+    /* font-size: 5rem;
+    font-weight: 700; */
+    padding-bottom: 60px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+#services .service__block--h4 {
+    min-height: 100%;
+}
+
+.service__block--h4 {
+    padding: 30px 20px;
+    background: #f6efff;
+    border-radius: 20px;
+    border: 1px solid #e2e2e2;
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+
+.service__block--h4:hover {
+    background-color: white;
+    box-shadow: 0px 10px 32px 0px rgb(197 197 197 / 40%);
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    border: 1px solid transparent;
+}
+
+.serviceIcon1 {
+    background: url(../images/service1.png) no-repeat;
+    height: 37px;
+    width: 31px;
+}
+
+.serviceIcon2 {
+    background: url(../images/service2.png) no-repeat;
+    height: 41px;
+    width: 26px;
+}
+
+.serviceIcon3 {
+    background: url(../images/service3.png) no-repeat;
+    height: 41px;
+    width: 40px;
+}
+
+.serviceIcon4 {
+    background: url(../images/service4.png) no-repeat;
+    height: 41px;
+    width: 38px;
+}
+
+.serviceIcon1,
+.serviceIcon2,
+.serviceIcon3,
+.serviceIcon4,
+.newsLatterIcon {
+    margin: 0 auto;
+    margin-bottom: 39px;
+    display: flex;
+}
+
+
+
+/* section 3 end */
+
+/* section4 styling */
+#section4 {
+    background-image: url(../images/4th-part.png);
+    background-size: cover;
+}
+
+#section4-row {
+    padding: 70px 0px;
+}
+
+#section4 p {
+    max-width: 650px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin: auto;
+    font-size: 23px;
+}
+
+.wwa__content ul li {
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 13px;
+    padding-left: 30px;
+    position: relative;
+    font-size: 16px;
+}
+
+.wwa__content ul li::before {
+    content: "\f058";
+    font-weight: 300;
+    font-family: 'font awesome 5 pro';
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    left: 0;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+li {
+    list-style: none;
+}
+
+#section4 .section4-laptop {
+    width: 100%;
+}
+
+/* section4 styling end */
+
+/* section 5 safesecure */
+#safesecure {
+    background-image: url(../images/5th-part.png);
+    background-size: cover;
+    margin-top: 21px;
+}
+
+.safesecure-title {
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+#safesecure .row {
+    padding: 100px 0px;
+}
+
+#safesecure .s5-part-object {
+    width: 100%;
+}
+
+/* section5 safesecure end */
+
+
+/* section 6 data control */
+#datacontrol {
+    background-image: url(../images/6th-part.png);
+    background-size: cover;
+    padding: 100px 0px;
+}
+
+#datacontrol .datacontrol-space {
+
+    padding: 40px 76px;
+}
+
+.datacontrol-space-text {
+    font-size: 3rem;
+}
+
+/* section 6 ends */
+
+/* <!-- Section 7  multidevice--> */
+#multidevice {
+    background-image: url(../images/7th-part.png);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#multidevice .datacontrol-space {
+    padding: 40px 0px;
+}
+
+#multidevice .mobile-mac {
+    width: 100%;
+}
+
+#multidevice .multidevice-text {
+
+    font-weight: 600;
+    font-size: 42px;
+}
+
+/* <!-- Section 7  multidevice--> End */
+
+/* <!-- section 8 downloadmizdah --> */
+#downloadmizdah {
+    background-image: url(../images/8th-part.png);
+    background-size: cover;
+
+    padding: 100px 0px;
+
+}
+
+#downloadmizdah a.btn.btnIOS,
+#downloadmizdah a.btn.btnWEB,
+#downloadmizdah a.btn.btnPLAY {
+    width: 260px;
+    height: 75px;
+    background-size: cover;
+    border: 0px;
+    padding: 15px 0px;
+}
+
+#downloadmizdah a.btn.btnIOS {
+    background-image: url(../images/IOS.png);
+}
+
+#downloadmizdah a.btn.btnPLAY {
+    background-image: url(../images/PLAY.png);
+
+}
+
+#downloadmizdah a.btn.btnWEB {
+    background-image: url(../images/WEB.png);
+
+}
+
+.wwa__content a:hover {
+    color: yellow;
+}
+
+.mizdah-download span {
+    margin-left: 35%;
+    color: #fff;
+}
+
+.marginRight15 {
+    margin-right: 15px;
+
+}
+
+#downloadmizdah a.btn.btnWEB {
+    background-image: url(../images/WEB.png);
+    margin-top: 10px;
+}
+
+@media (min-width: 991px) {
+    #downloadmizdah a.btn.btnWEB {
+
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 992px) {
+    #downloadmizdah a.btn.btnWEB {
+
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    #downloadmizdah a.btn.btnPLAY {
+
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #downloadmizdah a.btn.btnWEB {
+
+        margin-top: 10px;
+    }
+}
+
+
+
+/* <!-- section 8 downloadmizdah --> end */
+
+
+
+/* pricing section */
+
+#pricing .tab-content {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#pricing .offer-heading {
+    font-size: 19px;
+}
+
+.pricing-bg:hover {
+    background-image: url(../images/9th-part-blue.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    background-size: 100% 215px;
+    transition: transform .3s cubic-bezier(.61,.22,.34,2.16);
+    transform: scale(1.1);
+}
+
+.pricing-bg {
+    background-image: url(../images/9th-part-orange.png);
+    background-repeat: no-repeat;
+    background-size: 100% 215px;
+    min-height: 100%;
+    text-align: left;
+}
+
+.rounded-lg {
+    border-radius: 1rem !important;
+}
+
+.pricing-bg .price__header h5 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.pricing-bg .price__header h5,
+.pricing-bg .price__amount p,
+.pricing-bg .price__content p {
+    color: #fff;
+    margin-bottom: 10px;
+    padding-bottom: 14px;
+    padding-left: 17px;
+    line-height: 20px;
+}
+
+.price__amount.free-membership h4 {
+    display: flex;
+    min-height: 150px;
+    align-items: center;
+    justify-content: center;
+}
+
+.price__content h4,
+.price__amount h4 {
+    font-size: 30px;
+    line-height: 1;
+    color: #fff;
+}
+
+.price__content h5 {
+    font-size: 17px;
+    line-height: 1;
+    color: #fff;
+}
+
+.pricing-height {
+    min-height: 445px;
+    position: relative;
+}
+
+.mb-3,
+.my-3 {
+    margin-bottom: 1rem !important;
+}
+
+.list-spacing {
+    position: absolute;
+    bottom: 7%;
+    width: 80%;
+    transform: translate(-50%, 0%);
+    left: 50%;
+}
+
+.payment-tabs .nav-tabs:not(.nav-tabs-neutral)>.nav-item>.nav-link.active {
+    box-shadow: 0px 5px 35px 0px rgb(0 0 0 / 30%);
+}
+
+.payment-tabs .nav-tabs>.nav-item>.nav-link.active {
+    background-color: #0056d3;
+    color: #FFFFFF;
+}
+
+.payment-tabs .nav-tabs>.nav-item>.nav-link {
+    color: #fff;
+    background-color: #ecab2f;
+    margin: 0;
+    border: 1px solid #f8f2ff;
+    border-radius: 0px;
+    font-size: 18px;
+    padding: 5px 15px;
+    line-height: 2;
+    min-width: 130px;
+    text-align: center;
+}
+
+/* .payment-tabs a.nav-link.plan2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+} */
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+button.nav-link.plan {
+    border-top-left-radius: 30px !important;
+    border-bottom-left-radius: 30px !important;
+}
+
+button.nav-link.plan3 {
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+}
+
+
+
+
+/*  */
+.list-spacing a {
+    display: block;
+    text-align: center;
+    background: #f3f3f3;
+    border-radius: 50px;
+    color: #000;
+}
+
+.list-spacing a:hover,
+.list-spacing a:active {
+    background: #ecab2f !important;
+    color: #fff !important;
+}
+
+.list-spacing ul {
+    padding-left: 25px;
+}
+
+.text-small {
+    font-size: 0.7rem !important;
+}
+
+.mr-2,
+.mx-2 {
+    margin-right: 0.5rem !important;
+}
+
+.list-spacing ul li.mb-3 i {
+    margin-left: -45px;
+    padding-left: 25px;
+}
+
+.offer-image img {
+    position: absolute;
+    width: 66px;
+    top: -10px;
+    margin-left: -30px;
+}
+
+
+/* subscribe section */
+
+#subscribe {
+    background-color: #0056d3;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+
+#subscribe .subscribe-heading {
+    color: white;
+    font-size: 26px;
+}
+
+#subscribe .subscribe-p {
+    color: white;
+    font-size: 15px;
+}
+
+/* Footer section*/
+.footer {
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+
+.footer__menu ul {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.footer .footer__widget p {
+    font-size: 12px;
+    line-height: 1.1;
+    color: black;
+    margin-bottom: 4px;
+}
+
+.footer--text {
+    margin-bottom: 14px;
+    margin-top: 23px;
+}
+
+
+.footer__menu a {
+    color: #000000;
+    text-decoration: underline;
+    padding: 0px 14px;
+
+}
+
+.footer__menu a:hover {
+    color: #2662d1;
+  
+    transition: transform .3s cubic-bezier(.61,.22,.34,2.16);
+    transform: scale(1.3);
+    padding: 0px 14px;
+}
+
+.footer__bottom .footer__copyright a {
+    font-size: 15px;
+}
+
+/* Footer section */
